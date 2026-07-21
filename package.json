@@ -1,0 +1,12 @@
+{
+  "name": "@dinkuskit/bundles",
+  "version": "0.0.0",
+  "description": "Mix-and-match products for AICommerce on EmDash",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinkuskit/bundles.git"
+  }
+}
